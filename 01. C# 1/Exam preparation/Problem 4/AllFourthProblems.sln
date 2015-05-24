@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Longest Alphabetical Word", "01.Longest Alphabetical Word\01.Longest Alphabetical Word.csproj", "{7AA751A1-6954-4059-931E-FB937E1CC810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TextBombardment", "02.TextBombardmemt\02.TextBombardment.csproj", "{DBBB3380-9987-4ECD-957F-A6CE567B5337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MagicDates", "03.MagicDates\03.MagicDates.csproj", "{31B9707A-415E-4A16-9B86-D7C01F179633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MagicStrings", "04.MagicStrings\04.MagicStrings.csproj", "{9D398276-63D1-4757-8CDE-DFBEA79A8511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.NineDigitMagicNumbers", "05.NineDigitMagicNumbers\05.NineDigitMagicNumbers.csproj", "{B7B8B5FB-46E1-4ED9-9470-E2E43354BB9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EncryptedMatrix", "06.EncryptedMatrix\06.EncryptedMatrix.csproj", "{894815A9-646C-44B5-8523-A2AE1FEB03FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ArrayManipulator", "07.ArrayManipulator\07.ArrayManipulator.csproj", "{FE830493-E16E-46A1-A35A-BF2AADF4BB68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AA751A1-6954-4059-931E-FB937E1CC810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA751A1-6954-4059-931E-FB937E1CC810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA751A1-6954-4059-931E-FB937E1CC810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA751A1-6954-4059-931E-FB937E1CC810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBBB3380-9987-4ECD-957F-A6CE567B5337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBB3380-9987-4ECD-957F-A6CE567B5337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBB3380-9987-4ECD-957F-A6CE567B5337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBB3380-9987-4ECD-957F-A6CE567B5337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B9707A-415E-4A16-9B86-D7C01F179633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B9707A-415E-4A16-9B86-D7C01F179633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B9707A-415E-4A16-9B86-D7C01F179633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B9707A-415E-4A16-9B86-D7C01F179633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D398276-63D1-4757-8CDE-DFBEA79A8511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D398276-63D1-4757-8CDE-DFBEA79A8511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D398276-63D1-4757-8CDE-DFBEA79A8511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D398276-63D1-4757-8CDE-DFBEA79A8511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B8B5FB-46E1-4ED9-9470-E2E43354BB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B8B5FB-46E1-4ED9-9470-E2E43354BB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B8B5FB-46E1-4ED9-9470-E2E43354BB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B8B5FB-46E1-4ED9-9470-E2E43354BB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894815A9-646C-44B5-8523-A2AE1FEB03FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894815A9-646C-44B5-8523-A2AE1FEB03FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894815A9-646C-44B5-8523-A2AE1FEB03FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894815A9-646C-44B5-8523-A2AE1FEB03FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE830493-E16E-46A1-A35A-BF2AADF4BB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE830493-E16E-46A1-A35A-BF2AADF4BB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE830493-E16E-46A1-A35A-BF2AADF4BB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE830493-E16E-46A1-A35A-BF2AADF4BB68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

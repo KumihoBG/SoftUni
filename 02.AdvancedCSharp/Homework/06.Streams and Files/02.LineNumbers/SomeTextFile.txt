@@ -1,0 +1,10 @@
+Initial file for testing!
+
+Welcome to my homework solving solution.
+This is test one of the problem 2.
+The text has not lines yet.
+But it will.
+Let's try now.
+It definitely works!
+
+Thank you :)
