@@ -1,0 +1,1 @@
+D:\Telerik\Exams\DynamicProgramming\FindingMajorant\bin\Debug\FindingMajorant.exe.config

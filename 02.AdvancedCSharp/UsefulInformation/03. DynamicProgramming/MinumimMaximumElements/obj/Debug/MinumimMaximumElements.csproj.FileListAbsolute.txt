@@ -1,0 +1,6 @@
+D:\Telerik\Exams\DynamicProgramming\MinumimMaximumElements\bin\Debug\MinumimMaximumElements.exe.config
+D:\Telerik\Exams\DynamicProgramming\MinumimMaximumElements\bin\Debug\MinumimMaximumElements.exe
+D:\Telerik\Exams\DynamicProgramming\MinumimMaximumElements\bin\Debug\MinumimMaximumElements.pdb
+D:\Telerik\Exams\DynamicProgramming\MinumimMaximumElements\obj\Debug\MinumimMaximumElements.csprojResolveAssemblyReference.cache
+D:\Telerik\Exams\DynamicProgramming\MinumimMaximumElements\obj\Debug\MinumimMaximumElements.exe
+D:\Telerik\Exams\DynamicProgramming\MinumimMaximumElements\obj\Debug\MinumimMaximumElements.pdb
